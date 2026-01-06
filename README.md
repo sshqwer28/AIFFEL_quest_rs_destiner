@@ -3,74 +3,74 @@ AIFFEL_quest_rs
 
 '''bash  
 ├── MainQuest  
-│nbsp;nbsp;        ├── Quest01  
-│nbsp;nbsp;        │ nbsp;nbsp;     ├── Quest01.ipynb  
-│nbsp;nbsp;        │ nbsp;nbsp;     └── README.md  
-│nbsp;nbsp;        ├── Quest02  
-│nbsp;nbsp;        │ nbsp;nbsp;     ├── Quest02.ipynb  
-│nbsp;nbsp;        │ nbsp;nbsp;     └── README.md  
-│nbsp;nbsp;        ├── Quest03  
-│nbsp;nbsp;        │  nbsp;nbsp;    ├── Quest03.ipynb  
-│nbsp;nbsp;        │  nbsp;nbsp;     └── README.md  
-│nbsp;nbsp;        ├── Quest04  
-│nbsp;nbsp;        │   nbsp;nbsp;   ├── Quest04.ipynb  
-│nbsp;nbsp;        │   nbsp;nbsp;   └── README.md  
-│nbsp;nbsp;        └── Quest05  
-│nbsp;nbsp;    nbsp;nbsp;         nbsp;nbsp;  ├── Quest05.ipynb  
-│nbsp;nbsp;    nbsp;nbsp;         nbsp;nbsp;  └── README.md  
+│  &nbsp;&nbsp;&nbsp;   ├── Quest01  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest01.ipynb  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│  &nbsp;&nbsp;&nbsp;   ├── Quest02  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest02.ipynb  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│  &nbsp;&nbsp;&nbsp;   ├── Quest03  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest03.ipynb  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│  &nbsp;&nbsp;&nbsp;   ├── Quest04  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest04.ipynb  
+│  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│  &nbsp;&nbsp;&nbsp;   └── Quest05  
+│  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;    &nbsp;&nbsp; ├── Quest05.ipynb  
+│  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;    &nbsp;&nbsp; └── README.md  
 ├── Exploration  
-│        ├── Exploration01  
-│        │      ├── Exploration01.ipynb  
-│        │      └── README.md  
-│        ├── Exploration02  
-│        │      ├── Exploration02.ipynb  
-│        │      └── README.md  
-│        ├── Exploration03  
-│        │      ├── Exploration03.ipynb  
-│        │      └── README.md  
-│        ├── Exploration04  
-│        │      ├── Exploration04.ipynb  
-│        │      └── README.md  
-│        ├── Exploration05  
-│        │      ├── Exploration05.ipynb  
-│        │      └── README.md  
-│        ├── Exploration06  
-│        │      ├── Exploration06.ipynb  
-│        │      └── README.md  
-│        ├── Exploration07  
-│        │      ├── Exploration07.ipynb  
-│        │      └── README.md  
-│        ├── Exploration08  
-│        │      ├── Exploration08.ipynb  
-│        │      └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration01  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration01.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration02  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration02.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration03  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration03.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration04  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration04.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration05  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration05.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration06  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration06.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration07  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration07.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+│ &nbsp;&nbsp;&nbsp;    ├── Exploration08  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration08.ipynb  
+│ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
 └── GoingDeeper  
-	     ├── CAM  
-	     │      ├── CAM.ipynb  
-	     │      └── README.md  
-	     ├── Object-Detection  
-	     │      ├── Object-Detection.ipynb  
-	     │      └── README.md  
-	     ├── Segmentation  
-	     │      ├── Segmentation.ipynb  
-	     │      └── README.md  
-	     ├── Pose-Estimation  
-	     │      ├── Pose-Estimation.ipynb  
-	     │      └── README.md  
-	     ├── VIT  
-	     │      ├── VIT.ipynb  
-	     │      └── README.md  
-	     ├── Attention  
-	     │      ├── Attention.ipynb  
-	     │      └── README.md  
-	     ├── Transformer  
-	     │      ├── Transformer.ipynb  
-	     │      └── README.md  
-	     ├── BERT  
-	     │      ├── BERT.ipynb  
-	     │      └── README.md  
-	     └── KoChatgpt  
-	  	        ├── BERT.ipynb  
-	  	        └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── CAM  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── CAM.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Object-Detection  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Object-Detection.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Segmentation  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Segmentation.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Pose-Estimation  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Pose-Estimation.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── VIT  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── VIT.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Attention  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Attention.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── Transformer  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; ├── Transformer.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;├── BERT  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp;  ├── BERT.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;│  &nbsp;&nbsp;&nbsp;&nbsp;  └── README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;└── KoChatgpt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp&nbsp;  ├── BERT.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp&nbsp;;  └── README.md  
 '''
 		
 
