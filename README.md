@@ -1,6 +1,6 @@
 레포 구조 :  
 AIFFEL_quest_rs  
-'''
+'''bash
 ├── MainQuest  
 │  &nbsp;&nbsp;&nbsp;   ├── Quest01  
 │  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest01.ipynb  
